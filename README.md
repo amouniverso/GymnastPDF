@@ -1,3 +1,4 @@
 # GymnastPDF
-Open source pdf editor  
+
+Open source pdf toolkit
 ![Logo](Logo.png)
