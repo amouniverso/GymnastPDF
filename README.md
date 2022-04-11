@@ -1,4 +1,4 @@
 # GymnastPDF
 
 Open source pdf toolkit  
-![Logo](logo.png)
+![Logo](assets/logo.png)
